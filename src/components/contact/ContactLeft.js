@@ -3,18 +3,18 @@ import { contactImg } from "../../assets/index";
 
 const handleClickFacebook = () => {
   window.open(
-    "www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247",
+    "https://www.facebook.com/abhilashprasad.sahoo.9",
     "_blank"
   );
 };
 
 const handleClickTwitter = () => {
-  window.open("www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247", "_blank");
+  window.open("https://x.com/Abhilas2270762", "_blank");
 };
 
 const handleClickLinkedIn = () => {
   window.open(
-    "www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247",
+    "https://www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247/",
     "_blank"
   );
 };
