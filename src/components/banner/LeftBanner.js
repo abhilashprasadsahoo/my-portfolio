@@ -48,7 +48,7 @@ const LeftBanner=() =>{
 
 
     const handleClickUXDesigner = () => {
-      window.open("https://www.behance.net/atishmitadash1", "_blank");
+      window.open("www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247", "_blank");
     };
     
   const [showMenu, setShowMenu] = useState(false);
