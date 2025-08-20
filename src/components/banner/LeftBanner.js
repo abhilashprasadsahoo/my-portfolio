@@ -33,7 +33,7 @@ const LeftBanner=() =>{
 
   const handleClickLinkedIn = () => {
     window.open(
-      "www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247",
+      "https://www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247/",
       "_blank"
     );
   };
