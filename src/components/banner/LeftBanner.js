@@ -21,8 +21,7 @@ const LeftBanner=() =>{
   });
 
   const handleClickFacebook = () => {
-    window.open(
-      "https://www.facebook.com/abhilashprasad.sahoo.9",
+    window.open("https://www.facebook.com/abhilashprasad.sahoo.9",
       "_blank"
     );
   };
@@ -32,15 +31,13 @@ const LeftBanner=() =>{
   };
 
   const handleClickLinkedIn = () => {
-    window.open(
-      "https://www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247/",
+    window.open("https://www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247/",
       "_blank"
     );
   };
 
   const handleClickGithub = () => {
-    window.open(
-      "https://github.com/abhilashprasadsahoo",
+    window.open("https://github.com/abhilashprasadsahoo",
       "_blank"
     );
   };
