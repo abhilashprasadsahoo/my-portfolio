@@ -22,13 +22,13 @@ const LeftBanner=() =>{
 
   const handleClickFacebook = () => {
     window.open(
-      "https://www.facebook.com/profile.php?id=100073188185590",
+      "https://www.facebook.com/abhilashprasad.sahoo.9",
       "_blank"
     );
   };
 
   const handleClickTwitter = () => {
-    window.open("https://twitter.com/home", "_blank");
+    window.open("https://x.com/Abhilas2270762", "_blank");
   };
 
   const handleClickLinkedIn = () => {
@@ -40,7 +40,7 @@ const LeftBanner=() =>{
 
   const handleClickGithub = () => {
     window.open(
-      "www.linkedin.com/in/abhilash-prasad-sahoo-98aa67247",
+      "https://github.com/abhilashprasadsahoo",
       "_blank"
     );
   };
